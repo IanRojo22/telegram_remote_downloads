@@ -116,8 +116,8 @@ Regístrate en [MyJDownloader](https://my.jdownloader.org/login.html#logout) y v
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/IanRojo22/telegram_remote_download.git
-    cd telegram_remote_download
+    git clone https://github.com/IanRojo22/telegram_remote_downloads.git
+    cd telegram_remote_downloads
     ```
 
 2. Instala las dependencias:
