@@ -1,0 +1,5 @@
+python-telegram-bot==21.4
+python-dotenv==1.0.1
+qbittorrent-api==2022.12.27
+jdwrapper==0.1.2
+nest_asyncio==1.5.6
